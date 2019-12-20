@@ -71,23 +71,23 @@ social-links:
    
   - name: googlescholar
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-google fa-5x
+    icon-class: fab fa-google fa-3x
   
   - name: researchgate
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-researchgate fa-5x
+    icon-class: fab fa-researchgate fa-3x
     
   - name: CV
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fas fa-file-pdf fa-5x
+    icon-class: fas fa-file-pdf fa-3x
 
   - name: twitter
     url-pattern: twitter.com/sronilsson
-    icon-class: fab fa-twitter fa-5x
+    icon-class: fab fa-twitter fa-3x
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
-    icon-class: fab fa-linkedin-in fa-5x
+    icon-class: fab fa-linkedin-in fa-3x
     
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
@@ -109,7 +109,7 @@ social-links:
 
   - name: github-user
     url-pattern: github.com/__USERNAME__
-    icon-class: fab fa-5x fa-github
+    icon-class: fab fa-3x fa-github
 
   - name: gitlab-user
     url-pattern: gitlab.com/__USERNAME__
@@ -133,7 +133,7 @@ social-links:
 
   - name: youtube
     url-pattern: youtube.com/__USERNAME__
-    icon-class: fab fa-youtube fa-5x
+    icon-class: fab fa-youtube fa-3x
 
   - name: vimeo
     url-pattern: vimeo.com/__USERNAME__
@@ -176,4 +176,4 @@ social-links:
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-5x fa-envelope
+    icon-class: fas fa-3x fa-envelope
