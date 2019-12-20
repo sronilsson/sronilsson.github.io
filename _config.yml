@@ -83,6 +83,7 @@ social-links:
 
   - name: twitter
     url-pattern: twitter.com/sronilsson
+    icon-class: fab fa-twitter fa-x3
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
