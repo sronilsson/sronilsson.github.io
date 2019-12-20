@@ -19,7 +19,7 @@ linkedin: 'mylinkedin'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
 github: 'mygithub'
-researchgate: 'myresearchgate'
+rg: 'myresearchgate'
 googlescholar: 'mygooglescholar'
 CV: 'myCV'
 #gitlab-user: ''
@@ -38,7 +38,7 @@ CV: 'myCV'
 email: 'sronilsson@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github, CV, googlescholar, twitter, researchgate, linkedin, youtube, email]
+social-links-order: [github, CV, scholar, twitter, rg, linkedin, youtube, email]
 
 # Advanced settings
 plugins:
