@@ -71,23 +71,23 @@ social-links:
    
   - name: googlescholar
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-google fa-3x
+    icon-class: fab fa-google fa-5x
   
   - name: researchgate
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-researchgate fa-3x
+    icon-class: fab fa-researchgate fa-5x
     
   - name: CV
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fas fa-file-pdf fa-3x
+    icon-class: fas fa-file-pdf fa-5x
 
   - name: twitter
     url-pattern: twitter.com/sronilsson
-    icon-class: fab fa-twitter fa-x3
+    icon-class: fab fa-twitter fa-5x
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
-    icon-class: fab fa-linkedin-in
+    icon-class: fab fa-linkedin-in fa-5x
     
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
