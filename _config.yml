@@ -12,13 +12,16 @@ favicon: 'favicon.ico'
 
 # Online profiles
 #dribbble: 'mydribbble'
-facebook: 'myfacebook'
+#facebook: 'myfacebook'
 twitter: 'mytwitter'
 #linkedin: 'mylinkedin'
-instagram: 'myinsta'
+#instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
 github-user: 'mygithub'
+researchgate: 'myresearchgate'
+googlescholar: 'mygooglescholar'
+CV: 'myCV'
 #gitlab-user: ''
 #codepen: ''
 #steam: ''
@@ -28,14 +31,14 @@ github-user: 'mygithub'
 #reddit: ''
 #rubygems: ''
 #medium:  ''
-tumblr: 'mytumblr'
-weibo: 'myweibo'
-vk: 'myvk'
-blog_url: 'myblog.blog.com'
-email: 'hello@example.com'
-messenger: 'myfbchat'
+#tumblr: 'mytumblr'
+#weibo: 'myweibo'
+#vk: 'myvk'
+#blog_url: 'myblog.blog.com'
+email: 'sronilsson@gmail.com'
+#messenger: 'myfbchat'
 
-social-links-order: [github-user, facebook, twitter, instagram, tumblr, pinterest, linkedin, youtube, vk, weibo, dribbble, messenger, blog_url, email]
+social-links-order: [github-user, CV, googlescholar, twitter, researchgate, linkedin, youtube, email]
 
 # Advanced settings
 plugins:
@@ -64,9 +67,21 @@ social-links:
   - name: facebook
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
+   
+  - name: googlescholar
+    url-pattern: facebook.com/__USERNAME__
+    icon-class: fab fa-google
+  
+  - name: researchgate
+    url-pattern: facebook.com/__USERNAME__
+    icon-class: fab fa-researchgate
+    
+  - name: CV
+    url-pattern: facebook.com/__USERNAME__
+    icon-class: <i class="fas fa-file-pdf"></i>
 
   - name: twitter
-    url-pattern: twitter.com/__USERNAME__
+    url-pattern: twitter.com/sronilsson
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
