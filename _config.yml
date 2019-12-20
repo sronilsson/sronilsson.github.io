@@ -71,15 +71,15 @@ social-links:
    
   - name: googlescholar
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-google
+    icon-class: fab fa-google fa-2x
   
   - name: researchgate
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fab fa-researchgate
+    icon-class: fab fa-researchgate fa-2x
     
   - name: CV
     url-pattern: facebook.com/__USERNAME__
-    icon-class: fas fa-file-pdf
+    icon-class: fas fa-file-pdf fa-2x
 
   - name: twitter
     url-pattern: twitter.com/sronilsson
