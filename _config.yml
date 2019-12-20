@@ -38,7 +38,7 @@ CV: 'myCV'
 email: 'sronilsson@gmail.com'
 #messenger: 'myfbchat'
 
-social-links-order: [github-user, CV, googlescholar, twitter, researchgate, linkedin, youtube, email]
+social-links-order: [github, CV, googlescholar, twitter, researchgate, linkedin, youtube, email]
 
 # Advanced settings
 plugins:
