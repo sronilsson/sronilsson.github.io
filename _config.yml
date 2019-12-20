@@ -133,6 +133,7 @@ social-links:
 
   - name: youtube
     url-pattern: youtube.com/__USERNAME__
+    icon-class: fab fa-youtube fa-5x
 
   - name: vimeo
     url-pattern: vimeo.com/__USERNAME__
@@ -175,4 +176,4 @@ social-links:
   - name: email
     url-scheme: 'mailto:'
     url-pattern: '__USERNAME__'
-    icon-class: fas fa-3x fa-envelope
+    icon-class: fas fa-5x fa-envelope
