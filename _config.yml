@@ -175,5 +175,5 @@ social-links:
 
   - name: email
     url-scheme: 'mailto:'
-    url-pattern: 'snilsson@gmail.com'
+    url-pattern: 'sronilsson@gmail.com'
     icon-class: fas fa-3x fa-envelope
