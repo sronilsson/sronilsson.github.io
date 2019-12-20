@@ -14,7 +14,7 @@ favicon: 'favicon.ico'
 #dribbble: 'mydribbble'
 #facebook: 'myfacebook'
 twitter: 'mytwitter'
-#linkedin: 'mylinkedin'
+linkedin: 'mylinkedin'
 #instagram: 'myinsta'
 #pinterest: 'mypinterest'
 youtube: 'myyoutube'
@@ -87,7 +87,8 @@ social-links:
 
   - name: linkedin
     url-pattern: linkedin.com/in/__USERNAME__
-
+    icon-class: fab fa-linkedin-in
+    
   - name: google-plus
     url-pattern: plus.google.com/+__USERNAME__
 
