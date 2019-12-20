@@ -69,11 +69,11 @@ social-links:
     url-pattern: facebook.com/__USERNAME__
     icon-class: fab fa-2x fa-facebook-f
    
-  - name: googlescholar
+  - name: scholar
     url-pattern: 'scholar.google.com/citations?user=dKt60xAAAAAJ&hl=en'
     icon-class: fab fa-google fa-3x
   
-  - name: researchgate
+  - name: rg
     url-pattern: researchgate.net/profile/Simon_Nilsson3
     icon-class: fab fa-researchgate fa-3x
     
