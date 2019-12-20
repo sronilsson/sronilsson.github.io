@@ -107,7 +107,7 @@ social-links:
   - name: pinterest
     url-pattern: pinterest.com/__USERNAME__
 
-  - name: github-user
+  - name: github
     url-pattern: github.com/sronilsson
     icon-class: fab fa-3x fa-github
 
