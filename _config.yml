@@ -82,11 +82,11 @@ social-links:
     icon-class: fas fa-file-pdf fa-3x
 
   - name: twitter
-    url-pattern: twitter.com/sronilsson
+    url-pattern: twitter.com/nilssonsro
     icon-class: fab fa-twitter fa-3x
 
   - name: linkedin
-    url-pattern: linkedin.com/in/__USERNAME__
+    url-pattern: linkedin.com/in/sronilsson
     icon-class: fab fa-linkedin-in fa-3x
     
   - name: google-plus
@@ -108,7 +108,7 @@ social-links:
     url-pattern: pinterest.com/__USERNAME__
 
   - name: github-user
-    url-pattern: github.com/__USERNAME__
+    url-pattern: github.com/sronilsson
     icon-class: fab fa-3x fa-github
 
   - name: gitlab-user
@@ -175,5 +175,5 @@ social-links:
 
   - name: email
     url-scheme: 'mailto:'
-    url-pattern: '__USERNAME__'
+    url-pattern: 'snilsson@gmail.com'
     icon-class: fas fa-3x fa-envelope
