@@ -132,7 +132,7 @@ social-links:
     url-pattern: steamcommunity.com/id/__USERNAME__
 
   - name: youtube
-    url-pattern: youtube.com/__USERNAME__
+    url-pattern: 'youtube.com/channel/UCbLHTzlbHgh1GOHXiRRAZ3Q?view_as=subscriber'
     icon-class: fab fa-youtube fa-3x
 
   - name: vimeo
