@@ -74,11 +74,11 @@ social-links:
     icon-class: fab fa-google fa-3x
   
   - name: researchgate
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: researchgate.net/profile/Simon_Nilsson3
     icon-class: fab fa-researchgate fa-3x
     
   - name: CV
-    url-pattern: facebook.com/__USERNAME__
+    url-pattern: 'github.com/sronilsson/sronilsson.github.io/blob/master/docs/CV_Simon_092719.pdf'
     icon-class: fas fa-file-pdf fa-3x
 
   - name: twitter
