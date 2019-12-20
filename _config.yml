@@ -109,7 +109,7 @@ social-links:
 
   - name: github-user
     url-pattern: github.com/__USERNAME__
-    icon-class: fab fa-3x fa-github
+    icon-class: fab fa-5x fa-github
 
   - name: gitlab-user
     url-pattern: gitlab.com/__USERNAME__
