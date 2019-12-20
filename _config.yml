@@ -79,7 +79,7 @@ social-links:
     
   - name: CV
     url-pattern: facebook.com/__USERNAME__
-    icon-class: <i class="fas fa-file-pdf"></i>
+    icon-class: fas fa-file-pdf
 
   - name: twitter
     url-pattern: twitter.com/sronilsson
